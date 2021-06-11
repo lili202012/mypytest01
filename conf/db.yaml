@@ -1,0 +1,13 @@
+localhost:
+  charset: utf8
+  host: localhost
+  password: '123456'
+  port: 3306
+  user: root
+
+opms:
+  charset: utf8
+  host: 119.45.58.158
+  password: '123456'
+  port: 4406
+  user: root

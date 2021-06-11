@@ -1,0 +1,5 @@
+
+2021-06-10 17:50:40,258 INFO test_login01.py [23] MainThread : 登录接口，密码为空
+2021-06-10 17:50:40,349 INFO test_login01.py [23] MainThread : 登录接口，错误的密码
+2021-06-10 17:50:40,373 ERROR test_login01.py [28] MainThread : 登录接口，错误的密码，断言失败
+2021-06-10 17:50:40,419 INFO test_login01.py [23] MainThread : 登录接口，正确的密码

@@ -1,0 +1,7 @@
+title,mothed,地址,请求,断言
+没有参数的get请求,Get,/ceshi1/get/null,,"""message"":""success"""
+没有参数的post请求,Post,/ceshi1/post/null,,"""status"": 123"
+有参数的get请求,Get,/ceshi1/get/time,{"myname":"name"},
+有参数的post请求,Post,/ceshi1/post/notnull,"{
+  ""name"":""中文""
+}","""cname"": ""哈哈"""

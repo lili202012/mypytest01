@@ -1,0 +1,5 @@
+host:
+  dev: "http://192.168.10.121:8088"
+  pro: "http://192.168.10.121:8088"
+header:
+  Content-Type: "application/x-www-form-urlencoded; charset=UTF-8"
