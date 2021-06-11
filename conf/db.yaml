@@ -7,7 +7,7 @@ localhost:
 
 opms:
   charset: utf8
-  host: 119.45.58.158
+  host: xxxxxx
   password: '123456'
-  port: 4406
+  port: 3306
   user: root
